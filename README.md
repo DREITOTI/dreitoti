@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Student+Software+Engineer;Cybersecurity+Aspirant;Learning+Java+%26+Spring+Boot" alt="Typing SVG" />
 </p>
 
-<p align="center"><b>Student Software Engineer · Cybersecurity Aspirant</b></p>
+<p align="center"><b> —— Student Software Engineer · Cybersecurity Aspirant ——</b></p>
 
 <p align="center"><a href="https://main-portfolio-nu.vercel.app">Visit my portfolio website!</a></p>
 
@@ -26,11 +26,7 @@ I'm a 1st-year Software Engineering student interested in building reliable soft
 - Studying databases with PostgreSQL
 - Getting started with Docker and Linux
 
-<details>
-<summary><b>Languages · Tech Stack</b> (click to expand)</summary>
-
-<br>
-
+## Languages · Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -41,8 +37,6 @@ I'm a 1st-year Software Engineering student interested in building reliable soft
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-</details>
 
 ## Things I've Done
 
