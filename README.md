@@ -41,10 +41,8 @@ Started my Software Engineering journey at Aklan State University
 Building my first projects (links coming soon!)
 
 [Portfolio Website](https://github.com/DREITOTI/MAIN-PORTFOLIO): My personal website built with HTML, CSS, and JavaScript.
-
 [Last Message Website](https://github.com/DREITOTI/Last-Message): A lettered website for my greatest love built with HTML, CSS, and JavaScript.
-
-[Port Scanner](https://github.com/DREITOTI/port-scanner): A beginner Python script for learning network and security basics.
+[Study Helper](https://github.com/DREITOTI/Study-Helper): A study helper built with HTML, CSS, and JavaScript. Solving a problem for students who needs to lock in, with just one site/app.
 
 # Let's Connect
 
