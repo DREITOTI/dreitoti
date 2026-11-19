@@ -2,7 +2,7 @@
 
 <p align="center"><b>Student Software Engineer · Cybersecurity Aspirant</b></p>
 
-<p align="center"><a href="https://github.com/DREITOTI">Visit my portfolio website!</a></p>
+<p align="center"><a href="https://main-portfolio-nu.vercel.app">Visit my portfolio website!</a></p>
 
 ---
 
@@ -39,6 +39,12 @@ I'm a 1st-year Software Engineering student interested in building reliable soft
 ## Things I've Done
 Started my Software Engineering journey at Aklan State University
 Building my first projects (links coming soon!)
+
+[Portfolio Website](https://github.com/DREITOTI/MAIN-PORTFOLIO): My personal website built with HTML, CSS, and JavaScript.
+
+[Last Message Website](https://github.com/DREITOTI/Last-Message): A lettered website for my greatest love built with HTML, CSS, and JavaScript.
+
+[Port Scanner](https://github.com/DREITOTI/port-scanner): A beginner Python script for learning network and security basics.
 
 # Let's Connect
 
