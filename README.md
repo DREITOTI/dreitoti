@@ -50,8 +50,6 @@ I'm a 1st-year Software Engineering student interested in building reliable soft
 
 [Portfolio Website](https://github.com/DREITOTI/MAIN-PORTFOLIO): My personal website built with HTML, CSS, and JavaScript.
 
-[Last Message Website](https://github.com/DREITOTI/Last-Message): A lettered website for my greatest love built with HTML, CSS, and JavaScript.
-
 [Study Helper](https://github.com/DREITOTI/Study-Helper): A study helper built with HTML, CSS, and JavaScript. Solving a problem for students who need to lock in, with just one site or app.
 
 ## GitHub Stats
