@@ -41,6 +41,7 @@ I'm a 1st-year Software Engineering student interested in building reliable soft
 ## Things I've Done
 
 - Started my Software Engineering journey at Aklan State University
+- Created my first [Portfolio Website](https://github.com/DREITOTI/dreitoti)
 
 ## My Projects
 
