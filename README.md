@@ -16,7 +16,7 @@ I'm a 1st-year Software Engineering student interested in building reliable soft
 
 ## What I'm Building & Learning
 
-- Learning Java and backend development with Spring Boot
+- Still studieng Java and backend development with Spring Boot
 - Studying databases with PostgreSQL
 - Getting started with Docker and Linux
 - Building my first projects (links coming soon!)
