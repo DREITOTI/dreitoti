@@ -45,7 +45,6 @@ I'm a 1st-year Software Engineering student interested in building reliable soft
 ## My Projects
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=DREITOTI&repo=MAIN-PORTFOLIO&theme=tokyonight)](https://github.com/DREITOTI/MAIN-PORTFOLIO)
-[![Last Message](https://github-readme-stats.vercel.app/api/pin/?username=DREITOTI&repo=Last-Message&theme=tokyonight)](https://github.com/DREITOTI/Last-Message)
 [![Study Helper](https://github-readme-stats.vercel.app/api/pin/?username=DREITOTI&repo=Study-Helper&theme=tokyonight)](https://github.com/DREITOTI/Study-Helper)
 
 [Portfolio Website](https://github.com/DREITOTI/MAIN-PORTFOLIO): My personal website built with HTML, CSS, and JavaScript.
