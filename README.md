@@ -58,11 +58,21 @@ I'm a 1st-year Software Engineering student interested in building reliable soft
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DREITOTI&show_icons=true&theme=tokyonight">
     <img alt="Drei's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DREITOTI&show_icons=true">
   </picture>
+
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DREITOTI&layout=compact&theme=tokyonight">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DREITOTI&layout=compact">
   </picture>
 </p>
+
+
+
+
+
+
+
+
 
 <p align="center">
   <picture>
