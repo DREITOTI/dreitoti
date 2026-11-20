@@ -47,7 +47,7 @@ I'm a 1st-year Software Engineering student interested in building reliable soft
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=DREITOTI&repo=MAIN-PORTFOLIO&theme=tokyonight)](https://github.com/DREITOTI/MAIN-PORTFOLIO)
 
-[![Wifi Checker by Python](https://github-readme-stats.vercel.app/api/pin/?username=DREITOTI&repo=Wifi-Checker-by-Python&theme=tokyonight)](https://github.com/Wifi-Checker-by-Python)
+[![Wifi Checker by Python](https://github-readme-stats.vercel.app/api/pin/?username=DREITOTI&repo=Wifi-Checker-by-Python&theme=tokyonight)](https://github.com/DREITOTI/Wifi-Checker-by-Python)
 
 [![Study Helper](https://github-readme-stats.vercel.app/api/pin/?username=DREITOTI&repo=Study-Helper&theme=tokyonight)](https://github.com/DREITOTI/Study-Helper)
 
