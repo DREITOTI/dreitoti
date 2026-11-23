@@ -51,6 +51,9 @@ I'm a 1st-year Software Engineering student interested in building reliable soft
 
 [![Study Helper](https://github-readme-stats.vercel.app/api/pin/?username=DREITOTI&repo=Study-Helper&theme=tokyonight)](https://github.com/DREITOTI/Study-Helper)
 
+[![SZA SONG AUTO LYRICS](https://github-readme-stats.vercel.app/api/pin/?username=DREITOTI&repo=SZA-SONG-LYRIC&theme=tokyonight)](https://github.com/DREITOTI/SZA-SONG-LYRIC)
+
+
 ## GitHub Stats
 
 <p align="center">
